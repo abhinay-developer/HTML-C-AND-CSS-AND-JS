@@ -1,0 +1,39 @@
+
+/* id="login-form"   #login-form{}        class="login-form"    .login-form{ }*/
+
+.login-form{
+
+    background-color: aqua;
+    height: 450px;
+}
+
+input[type='email']{
+
+    width: 204px;
+    height: 39px;
+    margin-left: 23px;
+  
+    text-decoration: none;
+
+}
+
+input[type='password']{
+
+    width: 204px;
+    height: 39px;
+    margin-top: 20px;
+
+    text-decoration: none;
+}
+button{
+    outline: none;
+    text-decoration: none;
+    background-color:rgb(4, 129, 255);
+    width: 211px;
+    height: 45px;
+    margin-left: 65px;
+    margin-top: 14px;
+    color: white;
+    border-radius: 20px;
+
+}
